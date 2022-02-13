@@ -1,0 +1,9 @@
+{
+  "global": {
+    "red10": {
+      "value": "#c3c3c3",
+      "description": "red10",
+      "type": "sizing"
+    }
+  }
+}
