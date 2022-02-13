@@ -5,5 +5,11 @@
       "description": "red10",
       "type": "sizing"
     }
+  },
+  "alias": {
+    "birder-10": {
+      "value": "size.border-4",
+      "type": "sizing"
+    }
   }
 }
