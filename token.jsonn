@@ -4,6 +4,10 @@
       "value": "#c3c3c3",
       "description": "red10",
       "type": "sizing"
+    },
+    "borderBig": {
+      "value": "12",
+      "type": "sizing"
     }
   },
   "alias": {
