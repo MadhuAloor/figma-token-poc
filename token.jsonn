@@ -8,6 +8,11 @@
     "borderBig": {
       "value": "12",
       "type": "sizing"
+    },
+    "black": {
+      "value": "#000000",
+      "description": "black",
+      "type": "sizing"
     }
   },
   "alias": {
